@@ -9,6 +9,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@prisma/client": "^5.3.1",
     "@remix-run/node": "nightly",
     "@remix-run/react": "nightly",
     "@remix-run/serve": "nightly",
